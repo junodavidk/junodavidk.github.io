@@ -8,4 +8,4 @@
 
 With all the recent changes to Github, it has always been in the back of my mind to come and try it out atleast once
 
-**And FINALLY NOW, I got the time to check this wonderful and exciting experience.**
+**Today, I got the time to check this wonderful and exciting experience.**
