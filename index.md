@@ -1,11 +1,6 @@
 # I am Juno David K.
-## Blogger, Technology Evangelist, Active Pacifist
-
+## InfoSec Consultant & ISMS Lead Auditor | Multi Cloud Security Governance | Data Privacy & Protection | GRC | Technology Evangelist | Design Thinking Practitioner
 
 ### I am feeling excited to start with Github Pages. 
 
-*I have been into IT for more than a decade but never used Github. Its a point to be said that I had registerd for an account on Github back in 2015 but till date, never had an opportunity to try it out.*
-
-With all the recent changes to Github, it has always been in the back of my mind to come and try it out atleast once
-
-**Today, I got the time to check this wonderful and exciting experience.**
+*A result-driven and detail-oriented professional with a proven track record in delivering highly available, resilient and secure cloud infrastructure's coupled with automation, which helps facilitate enhanced productivity, reliability, optimized performance and cost reduction to the business. More than a decade of experience into technology consulting and consultative sales, with a key focus on service agility, cloud & data security, infosec & data protection, and GRC (governance, risk management and compliance).
